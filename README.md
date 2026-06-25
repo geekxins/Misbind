@@ -115,3 +115,7 @@ MisBind/
 ├── setup.py
 └── README.md
 ```
+
+## License
+
+MIT License
