@@ -115,7 +115,3 @@ MisBind/
 ├── setup.py
 └── README.md
 ```
-
-## License
-
-This source code is made available for research purposes only.
